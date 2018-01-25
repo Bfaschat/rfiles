@@ -1,7 +1,7 @@
 <?php
 
 $config = array(
-  'token' => 'YOUR TOKEN',
-  'bot_username' => 'YOUR BOT USERNAME',
+  'token' => '497554668:AAFQUXGVRkf8mGUm7iehijDnBnv2dOu4w-U',
+  'bot_username' => 'SeeFileLinkBot',
   'db' => 'rfiles.sqlite'
   );
